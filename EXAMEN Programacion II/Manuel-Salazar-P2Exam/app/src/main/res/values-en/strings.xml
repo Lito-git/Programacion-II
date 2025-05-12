@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam_P2</string>
+
+    <!-- UI -->
+    <string name="titulo_formulario">Meter Registration</string>
+    <string name="text_field_medidor">Meter</string>
+    <string name="text_field_fecha">Date (yyyy-MM-dd)</string>
+    <string name="radio_btn_title">Meter of:</string>
+    <string name="btn_registrar_medicion">Submit</string>
+    <string name="msg_no_registros">No Data found.</string>
+
+    <!-- Types -->
+    <string name="tipo_agua">WATER</string>
+    <string name="tipo_luz">ELECTRICITY</string>
+    <string name="tipo_gas">GAS</string>
+
+    <!-- Errors -->
+    <string name="error_monto_obligatorio">This camp is required!</string>
+    <string name="error_monto_numerico">Invalid amount!</string>
+    <string name="error_fecha_obligatoria">This camp is required!</string>
+    <string name="error_fecha_invalida">Invalid date! (yyyy-MM-dd)</string>
+</resources>

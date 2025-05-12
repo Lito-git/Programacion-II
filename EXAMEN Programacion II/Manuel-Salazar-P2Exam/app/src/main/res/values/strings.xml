@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Examen_P2</string>
+
+    <!-- UI -->
+    <string name="titulo_formulario">Registro Medidor</string>
+    <string name="text_field_medidor">Medidor</string>
+    <string name="text_field_fecha">Fecha (yyyy-MM-dd)</string>
+    <string name="radio_btn_title">Medidor de:</string>
+    <string name="btn_registrar_medicion">Registrar medición</string>
+    <string name="msg_no_registros">No hay registros disponibles</string>
+
+    <!-- Tipos de Cobro -->
+    <string name="tipo_agua">AGUA</string>
+    <string name="tipo_luz">LUZ</string>
+    <string name="tipo_gas">GAS</string>
+
+    <!-- Errores -->
+    <string name="error_monto_obligatorio">El monto es obligatorio!</string>
+    <string name="error_monto_numerico">El monto debe ser numérico!</string>
+    <string name="error_fecha_obligatoria">La fecha es obligatoria!</string>
+    <string name="error_fecha_invalida">Formato de fecha inválido! (yyyy-MM-dd)</string>
+</resources>
